@@ -1,6 +1,7 @@
 img {
   width: 300px;
   height: auto;
+  display: block;
 }
 
 h1 {
